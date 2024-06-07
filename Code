@@ -133,7 +133,7 @@ if __name__=='__main__':
             print("...............................Thank you for visiting TRIBENI BAKERY:)................")
 
 
-        mycursor.close()
+       
 
 
 
