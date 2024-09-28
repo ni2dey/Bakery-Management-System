@@ -1,0 +1,1 @@
+The Bakery Management System is a application built using Python and SQL, with MySQL as the database backend. It helps streamline bakery operations, enabling efficient management of customer orders, inventory, and sales
